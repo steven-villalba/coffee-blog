@@ -9,4 +9,4 @@ web-page about coffee recipes
 * HTML
 * CSS
 * Responsive Design
-* [Link to web-page]()
+* [Link to web-page](https://steven-villalba.github.io/coffee-blog/)
